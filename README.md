@@ -1,4 +1,8 @@
-﻿## 安装提示:
+﻿## 下载
+
+[Sci-Hub Helper](https://github.com/hlyang1992/sci_hub_helper/releases/latest)
+
+## 安装提示:
 
 * Win+R 打开运行，输入 gpedit.msc，确定；详细过程可看视频。
 
