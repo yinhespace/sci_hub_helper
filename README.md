@@ -4,7 +4,8 @@
 
 ## 安装提示:
 
-* Win+R 打开运行，输入 gpedit.msc，确定；详细过程可看视频。
+* Win+R 打开运行，输入gpedit.msc，确定；详细过程可看
+    [视频](https://github.com/hlyang1992/sci_hub_helper/raw/master/%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.mp4)。
 
 * ID: opnjecoblohneggmhjehjpgbjgnjodmh
 
